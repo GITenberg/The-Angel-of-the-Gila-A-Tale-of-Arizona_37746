@@ -1,0 +1,32 @@
+_repo: The-Angel-of-the-Gila-A-Tale-of-Arizona_37746
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 37746-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Marsland, Cora
+    birthdate: 1859
+    gutenberg_agent_id: '39034'
+    url: http://www.gutenberg.org/2009/agents/39034
+description: How much can a single individual do to change the essential nature of
+  a town? The young heroine of Cora Marsland's The Angel of the Gila does everything
+  she can to bring health, happiness, and strong values to a recently settled community
+  in rural Arizona. She spends her days tirelessly engaged in service, teaching children
+  and adults, nursing the sick back to health, imparting spiritual wisdom -- and falling
+  in love. Will she find a way to balance her work in the community with her ...
+gutenberg_issued: '2011-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37746'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arizona -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Women teachers -- Fiction'
+- !lcc 'PS'
+title: 'The Angel of the Gila: A Tale of Arizona'
+url: http://www.gutenberg.org/ebooks/37746
